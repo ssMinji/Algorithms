@@ -40,3 +40,4 @@ def solution(goldValues):
     return totalGold
 
 print(solution(goldValues))
+print(6980+4239+4064)
